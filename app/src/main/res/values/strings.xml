@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppUnac</string>
+    <string name="text_btn_regresar">REGRESAR</string>
+    <string name="text_btn_ingresar">INGRESAR</string>
+    <string name="text_btn_confirmar">CONFIRMAR</string>
+    <string name="text_btn_reservar">RESERVAR ASIENTO</string>
+    <string name="text_title_estudiante">BIENVENIDO</string>
+    <string name="text_title_reserva">RESERVA TU ASIENTO</string>
+    <string name="text_mssg_reserva">Nota: El registro estará habilitado a partir de las 8:00 pm</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
